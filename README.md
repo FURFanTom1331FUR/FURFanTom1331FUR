@@ -73,7 +73,7 @@
 | [Educational-Projects](https://github.com/FURFanTom1331FUR/Educational-Projects) | Лабораторные и курсовые |
 | [Java](https://github.com/FURFanTom1331FUR/Java) | Задачи и проекты на Java |
 | [Software-Testing](https://github.com/FURFanTom1331FUR/Software-Testing) | Тестирование ПО |
-| [Web-Design](https://github.com/FURFanTom1331FUR/Web-Design) | Вёрстка и лабораторные по web-дизайну |
+| [Легенды русской поэзии](https://github.com/FURFanTom1331FUR/Web-Design) | Лаба №1: одностраничник (HTML/CSS) |
 
 ### 🌐 Сайты
 
