@@ -106,8 +106,10 @@
 ## 📊 GitHub-статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FURFanTom1331FUR&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FURFanTom1331FUR&layout=compact&theme=radical&hide_border=true" height="180" alt="Top languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=FURFanTom1331FUR&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FURFanTom1331FUR&layout=compact&theme=radical&hide_border=true" height="180" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=FURFanTom1331FUR&theme=radical&hide_border=true" height="180" alt="GitHub streak" />
 </div>
 
 ---
