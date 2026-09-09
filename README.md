@@ -36,10 +36,25 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🗂 Разделы портфолио
+
+| Раздел | Репозиторий |
+|:-------|:------------|
+| Java | [Java](https://github.com/FURFanTom1331FUR/Java) |
+| Мобильная разработка | [Mobile-Development](https://github.com/FURFanTom1331FUR/Mobile-Development) |
+| Web-дизайн | [Web-Design](https://github.com/FURFanTom1331FUR/Web-Design) |
+| Тестирование ПО | [Software-Testing](https://github.com/FURFanTom1331FUR/Software-Testing) |
+| Учебные проекты | [Educational-Projects](https://github.com/FURFanTom1331FUR/Educational-Projects) |
+| Стартапы | [Startups](https://github.com/FURFanTom1331FUR/Startups) |
+| Мои проекты | [My-Projects](https://github.com/FURFanTom1331FUR/My-Projects) |
 
 ---
 
@@ -53,11 +68,12 @@
 
 <br/>
 
-| Проект | Описание | Стек |
-|:-------|:---------|:-----|
-| [Легенды русской поэзии](https://github.com/FURFanTom1331FUR) | Лабораторная работа №1 (Web-дизайн): одностраничник с шапкой, якорями и секциями поэтов | HTML, CSS |
-
-> Скоро здесь появятся новые лабораторные и курсовые работы.
+| Проект | Описание |
+|:-------|:---------|
+| [Educational-Projects](https://github.com/FURFanTom1331FUR/Educational-Projects) | Лабораторные и курсовые |
+| [Java](https://github.com/FURFanTom1331FUR/Java) | Задачи и проекты на Java |
+| [Software-Testing](https://github.com/FURFanTom1331FUR/Software-Testing) | Тестирование ПО |
+| [Web-Design](https://github.com/FURFanTom1331FUR/Web-Design) | Вёрстка и лабораторные по web-дизайну |
 
 ### 🌐 Сайты
 
@@ -67,9 +83,9 @@
 
 <br/>
 
-| Проект | Описание | Статус |
-|:-------|:---------|:-------|
-| — | Лендинги и учебные одностраничники | В работе |
+| Проект | Описание |
+|:-------|:---------|
+| [Web-Design](https://github.com/FURFanTom1331FUR/Web-Design) | Сайты, лендинги, одностраничники |
 
 ### 📱 Приложения
 
@@ -79,9 +95,11 @@
 
 <br/>
 
-| Проект | Описание | Статус |
-|:-------|:---------|:-------|
-| — | Небольшие приложения и утилиты | Планируется |
+| Проект | Описание |
+|:-------|:---------|
+| [Mobile-Development](https://github.com/FURFanTom1331FUR/Mobile-Development) | Мобильная разработка |
+| [My-Projects](https://github.com/FURFanTom1331FUR/My-Projects) | Личные проекты и эксперименты |
+| [Startups](https://github.com/FURFanTom1331FUR/Startups) | Идеи, MVP и стартап-эксперименты |
 
 ---
 
